@@ -17,7 +17,7 @@ const SingleProduct = (props) => {
       <div className="text-center font-bold text-lg ">
         <h2 className="capitalize tracking-wider">{title}</h2>
       </div>
-      <figure className="flex items-center justify-center px-8 pt-8">
+      <figure className="flex items-center justify-center px-9 pt-9">
         <img src={image} alt="Elf" className="product-image " />
       </figure>
       <div className="card-body items-center text-center">
