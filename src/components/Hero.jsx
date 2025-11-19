@@ -14,7 +14,7 @@ const Hero = () => {
                 </h1>
                 <p className='mt-8 max-w-xl text-lg leading-8'>
                     🎈PowPow balloons by Paulina
-                    🎈Any occasion, big or small
+                    🎈Any occasion big or small
                     🎈 Limerck and surrounding areas
                     🎈 DM for availability
                 </p>
